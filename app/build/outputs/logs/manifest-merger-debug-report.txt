@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\89ca0485deb9777a92b1bb23515373d1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.sundeepk:compact-calendar-view:1.9.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\compact-calendar-view-1.9.1.aar\0ac96daad6cd7c30baea1418b0702dae\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7b4d2c37615b26a37cf6c2ca3477480d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6069dbc82fe8fabdd8bfeba28de0d182\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\0690342858dbed2174daa7ec8cc7727f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\e759cff9d40611028e25fe3f9569b6d9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\eecd3ac6bab6058ffc87a0c6bd972b43\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\80f56d0c88dec01e95e6e4433ec1e598\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c2ae6b131879f5ef4adc0d90be409c58\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\658d3d09a8e60b776dd121dfa1500cae\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\3742a73e013d5e649a73af29b8e2a707\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7dcc15006cc8435e2582b6e249f1b6c0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\85907522e3e7d1540ce127207bbe1aa8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ed0f9c8a5215147172d82d84df878a3f\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:10:5-35:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\89ca0485deb9777a92b1bb23515373d1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\89ca0485deb9777a92b1bb23515373d1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7b4d2c37615b26a37cf6c2ca3477480d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7b4d2c37615b26a37cf6c2ca3477480d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6069dbc82fe8fabdd8bfeba28de0d182\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6069dbc82fe8fabdd8bfeba28de0d182\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\0690342858dbed2174daa7ec8cc7727f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\0690342858dbed2174daa7ec8cc7727f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\e759cff9d40611028e25fe3f9569b6d9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\e759cff9d40611028e25fe3f9569b6d9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\80f56d0c88dec01e95e6e4433ec1e598\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\80f56d0c88dec01e95e6e4433ec1e598\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c2ae6b131879f5ef4adc0d90be409c58\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c2ae6b131879f5ef4adc0d90be409c58\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\658d3d09a8e60b776dd121dfa1500cae\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\658d3d09a8e60b776dd121dfa1500cae\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\3742a73e013d5e649a73af29b8e2a707\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\3742a73e013d5e649a73af29b8e2a707\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7dcc15006cc8435e2582b6e249f1b6c0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7dcc15006cc8435e2582b6e249f1b6c0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\85907522e3e7d1540ce127207bbe1aa8\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\85907522e3e7d1540ce127207bbe1aa8\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ed0f9c8a5215147172d82d84df878a3f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ed0f9c8a5215147172d82d84df878a3f\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.sneha.moneysaver.login_activity
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:18:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.sneha.moneysaver.MainActivity
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:26:19-47
+activity#com.example.sneha.moneysaver.Plans
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:27:9-43
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:27:19-40
+activity#com.example.sneha.moneysaver.Expenses
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:28:9-46
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:28:19-43
+activity#com.example.sneha.moneysaver.BucketList
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:29:9-48
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:29:19-45
+activity#com.example.sneha.moneysaver.Savings
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:30:9-45
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:30:19-42
+activity#com.example.sneha.moneysaver.Review
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:31:19-41
+activity#com.example.sneha.moneysaver.Sign_up
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:32:9-45
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:32:19-42
+activity#com.example.sneha.moneysaver.GetToKnow
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:33:9-47
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:33:19-44
+activity#com.example.sneha.moneysaver.DateWisePlan
+ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:34:9-59
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml:34:19-47
+uses-sdk
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\89ca0485deb9777a92b1bb23515373d1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\89ca0485deb9777a92b1bb23515373d1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.sundeepk:compact-calendar-view:1.9.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\compact-calendar-view-1.9.1.aar\0ac96daad6cd7c30baea1418b0702dae\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.sundeepk:compact-calendar-view:1.9.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\compact-calendar-view-1.9.1.aar\0ac96daad6cd7c30baea1418b0702dae\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7b4d2c37615b26a37cf6c2ca3477480d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7b4d2c37615b26a37cf6c2ca3477480d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6069dbc82fe8fabdd8bfeba28de0d182\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6069dbc82fe8fabdd8bfeba28de0d182\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\0690342858dbed2174daa7ec8cc7727f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\0690342858dbed2174daa7ec8cc7727f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\e759cff9d40611028e25fe3f9569b6d9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\e759cff9d40611028e25fe3f9569b6d9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\eecd3ac6bab6058ffc87a0c6bd972b43\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\eecd3ac6bab6058ffc87a0c6bd972b43\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\80f56d0c88dec01e95e6e4433ec1e598\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\80f56d0c88dec01e95e6e4433ec1e598\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c2ae6b131879f5ef4adc0d90be409c58\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c2ae6b131879f5ef4adc0d90be409c58\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\658d3d09a8e60b776dd121dfa1500cae\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\658d3d09a8e60b776dd121dfa1500cae\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\3742a73e013d5e649a73af29b8e2a707\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\3742a73e013d5e649a73af29b8e2a707\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7dcc15006cc8435e2582b6e249f1b6c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7dcc15006cc8435e2582b6e249f1b6c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\85907522e3e7d1540ce127207bbe1aa8\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\85907522e3e7d1540ce127207bbe1aa8\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ed0f9c8a5215147172d82d84df878a3f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ed0f9c8a5215147172d82d84df878a3f\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\89ca0485deb9777a92b1bb23515373d1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\MoneySaver2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\89ca0485deb9777a92b1bb23515373d1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7b4d2c37615b26a37cf6c2ca3477480d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7b4d2c37615b26a37cf6c2ca3477480d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\0690342858dbed2174daa7ec8cc7727f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\0690342858dbed2174daa7ec8cc7727f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\e759cff9d40611028e25fe3f9569b6d9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\e759cff9d40611028e25fe3f9569b6d9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\eecd3ac6bab6058ffc87a0c6bd972b43\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\eecd3ac6bab6058ffc87a0c6bd972b43\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\80f56d0c88dec01e95e6e4433ec1e598\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\80f56d0c88dec01e95e6e4433ec1e598\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c2ae6b131879f5ef4adc0d90be409c58\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c2ae6b131879f5ef4adc0d90be409c58\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\658d3d09a8e60b776dd121dfa1500cae\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\658d3d09a8e60b776dd121dfa1500cae\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\3742a73e013d5e649a73af29b8e2a707\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\3742a73e013d5e649a73af29b8e2a707\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7dcc15006cc8435e2582b6e249f1b6c0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7dcc15006cc8435e2582b6e249f1b6c0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\85907522e3e7d1540ce127207bbe1aa8\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\85907522e3e7d1540ce127207bbe1aa8\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ed0f9c8a5215147172d82d84df878a3f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ed0f9c8a5215147172d82d84df878a3f\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\89ca0485deb9777a92b1bb23515373d1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\89ca0485deb9777a92b1bb23515373d1\AndroidManifest.xml:26:9-47
